@@ -9,7 +9,7 @@
 
 body{
   font-family: 'Poppins', sans-serif;
-  background-color: #f3f1ff;
+  background-color: #E5E5E5;
 }
 main{
   display: flex;
@@ -63,6 +63,7 @@ top blog styles
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-row-gap: 26px;
+
 }
 .blog{
   display: flex;
@@ -145,5 +146,7 @@ top blog styles
   }  
   .players, .courses{
       grid-template-columns: repeat(2, 1fr);
+      
     }
  }
+
